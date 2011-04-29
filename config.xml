@@ -4,14 +4,14 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>SBITS PHONE GAP TEST</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		SBITS PHONE GAP TEST NERVE MUSIC
 	</description>
 
-	<author href="http://krhebbar.com"
-		email="krhebbar@gmail.com">
+	<author href="http://sourcebits.com"
+		email="ravindra@sourcebits.com">
 		Andrew Lunny
 	</author>
 
